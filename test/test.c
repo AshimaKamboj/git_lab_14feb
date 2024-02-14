@@ -1,6 +1,7 @@
 #include<stdio.h>
 int main()
 {
-printf("this is my git assignment );
+printf("this is my git assignment" );
+printf("adding a new line in my git");
 return 0;
 }
